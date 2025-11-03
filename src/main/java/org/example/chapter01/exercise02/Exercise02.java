@@ -1,6 +1,9 @@
-package org.example.chaptere01.exercises02;
+package org.example.chapter01.exercise02;
 
-public class Exercises02 {
+
+//1.2 (Display five messages) Write a program that displays Welcome to Java five
+//times.
+public class Exercise02 {
     public static void main(String[] args) {
         System.out.println("Welcome to Java");
         System.out.println("Welcome to Java");
