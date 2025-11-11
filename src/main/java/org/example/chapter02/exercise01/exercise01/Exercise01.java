@@ -16,7 +16,5 @@ public class Exercise01 {
         System.out.println();
         System.out.println("Degrees Fahrenheit : " + ((9.0/5) * celsius + 32 ) );
 
-
-
     }
 }
