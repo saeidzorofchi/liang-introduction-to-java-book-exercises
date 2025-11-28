@@ -10,8 +10,7 @@ public class Exercise03 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number in feet : ");
-
-
+        System.out.println();
 
     }
 }
