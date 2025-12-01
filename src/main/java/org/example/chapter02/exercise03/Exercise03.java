@@ -10,7 +10,9 @@ public class Exercise03 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number in feet : ");
-        System.out.println();
+        double feet = scanner.nextDouble();
+        System.out.println("Value converted to meters: : " + feet * 0.35);
+
 
     }
 }
